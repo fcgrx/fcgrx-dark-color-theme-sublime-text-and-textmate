@@ -18,6 +18,14 @@ To install this theme in Sublime Text:
 
 3) restart Sublime Text and then choose Sublime Text > Preferences > Color Scheme > User > Color Schemes > fcgrx_dark
 
+Modification
+------------
+
+Not all scopes defined in this theme have a color or style assigned. That's a matter of personal taste. To customize this theme, I recommend this excellent online theme editor:
+
+  http://tmtheme-editor.herokuapp.com/
+
+
 
 Enjoy!
 
