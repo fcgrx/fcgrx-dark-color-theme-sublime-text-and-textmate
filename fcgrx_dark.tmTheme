@@ -281,6 +281,8 @@
 			<string>ee.tag.html</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#cca</string>
 			</dict>
 		</dict>
 		<dict>
@@ -290,6 +292,8 @@
 			<string>punctuation.definition.tag.begin.ee</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#bb9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -299,6 +303,8 @@
 			<string>punctuation.definition.tag.end.ee</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#bb9</string>
 			</dict>
 		</dict>
 		<dict>
